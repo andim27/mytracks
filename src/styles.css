@@ -1,1 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+/* amk */
+@import '~https://fonts.googleapis.com/icon?family=Material+Icons';
+@import '~@angular/material/core/theming/prebuilt/deeppurple-amber.css';
+body {
+  background: #e6ffe6;
+}
+label {
+  color: black;
+  font-weight: bold;
+}
